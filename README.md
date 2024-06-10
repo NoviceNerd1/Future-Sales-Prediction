@@ -1,4 +1,5 @@
 # Sales_Prediction
+
 This Git repository contains machine learning models for predicting future sales based on historical data. Developed models include ML, CNN,LSTM, and a CNN-LSTM hybrid. The repository also includes data preprocessing scripts, exploratory data analysis , and model evaluation.
 
 Project Title: Future Sales Prediction
@@ -16,10 +17,6 @@ Exploratory Data Analysis (EDA): EDA is conducted to gain insights into the sale
 Model Development: Multiple machine learning models are developed and evaluated for their ability to forecast future sales. This includes:
 
 Multilayer Perceptron (MLP): A basic neural network architecture suitable for capturing complex relationships in the data.
-
-Convolutional Neural Network (CNN): Utilized to identify patterns between sequential timesteps in the sales data.
-
-Long Short-Term Memory (LSTM): Leveraged to capture long-term dependencies and temporal patterns in the time series data.
 
 CNN-LSTM Hybrid: A combination of CNN and LSTM to capture both local and global patterns in the sales data.
 
@@ -45,4 +42,7 @@ To Execute the Code:
 Step 1) download the ipynb file and datasets as it is
 step 2) Execute in cmd: pip install -r requirements.txt
 step 3) Run the code
+
+=======
+This Git repository contains machine learning models for predicting future sales based on historical data. Developed models include ML and a CNN-LSTM hybrid. The repository also includes data preprocessing scripts, exploratory data analysis , and model evaluation.
 
